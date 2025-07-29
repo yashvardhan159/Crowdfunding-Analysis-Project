@@ -25,10 +25,3 @@ The goal was to gain actionable insights for campaign organizers to optimize suc
 
 ## Screenshots
 <img width="1657" height="803" alt="{5A851C12-830B-411B-AE75-396F7BBEB77C}" src="https://github.com/user-attachments/assets/2a4ad336-8ce4-40d6-937f-32bad03defc6" />
-
-
-## How to Run
-- SQL files contain data extraction queries
-- Excel files include cleaned data and pivot tables
-- `.pbix` files for Power BI dashboards
-- `.twbx` or Tableau Public links for Tableau reports
